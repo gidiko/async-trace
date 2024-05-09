@@ -1,0 +1,12 @@
+https://sparse.tamu.edu/SNAP/ca-CondMat
+https://sparse.tamu.edu/HB/bcsstm08
+https://sparse.tamu.edu/SNAP/ca-HepTh
+https://sparse.tamu.edu/SNAP/ca-GrQc
+https://sparse.tamu.edu/Pajek/Roget
+https://sparse.tamu.edu/SNAP/wiki-Vote
+https://sparse.tamu.edu/TKK/plbuckle
+https://sparse.tamu.edu/Pajek/yeast
+https://sparse.tamu.edu/Botonakis/thermomech_TC
+https://sparse.tamu.edu/SNAP/web-Stanford
+https://sparse.tamu.edu/LAW/cnr-2000
+http://sparse.tamu.edu/Arenas/email
